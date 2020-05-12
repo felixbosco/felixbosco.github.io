@@ -51,6 +51,7 @@ nav li a:hover {
   font-size: 24pt;
 }
 .header-title a {
+  padding: 0 15px;
   text-decoration: none;
   color: white;
 }
