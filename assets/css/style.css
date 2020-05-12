@@ -1,3 +1,28 @@
+/* ---------- general design: body ---------- */
+html, body {
+  margin: 0;
+}
+
+/* ---------- general design: header ---------- */
 header {
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: row;
+
+    width: 100;
+    padding: 10% 10px;
+
     background-color: #333;
+}
+
+nav {
+}
+nav ul {
+
+}
+
+/* ---------- general design: main ---------- */
+main {
+    width: 70%;
+    margin: auto;
 }
