@@ -48,4 +48,14 @@ nav li a:hover {
 main {
     width: 70%;
     margin: auto;
+    padding: 25px;
+
+    color: #333;
+}
+
+/* ---------- responsive design: main ---------- */
+@media (max-width: 1000px) {
+    main {
+        width: 100%;
+    }
 }
