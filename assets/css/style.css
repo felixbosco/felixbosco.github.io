@@ -1,32 +1,80 @@
+---
+---
+
+* {
+  box-sizing: border-box;
+}
+
 /* ---------- general design: body ---------- */
-html, body {
+body {
+  font-family: Arial, Helvetica, sans-serif;
   margin: 0;
 }
 
 /* ---------- general design: header ---------- */
 header {
-    display: -webkit-flex;
-    display: flex;
-    flex-direction: row;
-
-    width: 100;
-    padding: 0px 10%;
-
-    background-color: #333;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin: 0;
+  padding-left: 15%;
+  padding-right: 15%;
+  background-color: #333;
+  font-size: 14pt;
+  box-shadow: 0px 0px 8px gray;
+}
+header a {
+  color: white;
+  text-decoration: none;
+}
+header a:hover {
+  color: white;
+  text-decoration: none;
+}
+header:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.name {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background: transparent;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 28pt;
 }
 
-/* ---------- general design: nav ---------- */
+@media (max-width: 600px) {
+  header {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    padding-left: 25px;
+    padding-right: 25px;
+    width: 100%;
+  }
+  .name {
+    width: 100%;
+  }
+}
+
+/* ---------- general design: nav menu ---------- */
 nav {
-    -webkit-flex: 1;
-    -ms-flex: 1;
-    flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background: inherit;
+  height: inherit;
 }
 nav ul {
-    float: right;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+  float: right;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: inherit;
 }
 nav li {
   float: left;
@@ -35,27 +83,88 @@ nav li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 15px 15px;
+  padding: 30px 15px;
   text-decoration: none;
 }
 nav li a:hover {
   background-color: #111;
 }
+@media (max-width: 600px) {
+  nav {
+    background: transparent;
+  }
+}
 
-.header-nav
+/* ---------- general design: flex boxes ---------- */
+section {
+  display: -webkit-flex;
+  display: flex;
+}
 
 /* ---------- general design: main ---------- */
 main {
-    width: 70%;
-    margin: auto;
-    padding: 25px;
+  width: 70%;
+  position: relative;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 15%;
+  margin-right: 15%;
 
-    color: #333;
+  padding: 25px;
+  text-align: justify;
+
+  color: #555;
+}
+@media (max-width: 600px) {
+  main {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
-/* ---------- responsive design: main ---------- */
-@media (max-width: 1000px) {
-    main {
-        width: 100%;
-    }
+main a {
+  color: black;
+  text-decoration: none;
+}
+main a:hover {
+  color: blue;
+}
+
+main:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the footer */
+footer {
+  background-color: #333;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+@media (max-width: 600px) {
+  section {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+}
+
+/* ---------- element design: table ---------- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+table tr:nth-child(odd) {
+  background-color: #eeeeee;
+}
+table td {
+  padding: 12px 24px 12px 24px;
+  border: 1px solid #eeeeee;
+  text-align: left;
 }
