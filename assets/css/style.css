@@ -54,7 +54,12 @@ main {
     background-color: red;
 }
 
+/* ---------- responsive design ---------- */
 @media (max-width: 1000px) {
+  header {
+    padding: 0px 25px;
+  }
+
   main {
     width: 100%;
   }
