@@ -43,6 +43,10 @@ nav li a:hover {
 }
 
 .header-title {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  
   color: white;
   font-size: 24pt;
 }
