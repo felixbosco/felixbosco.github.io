@@ -22,7 +22,10 @@
 
     <body>
 
-        <header>{%- include nav.html -%}</header>
+        <header>
+          {%- include title.html -%}
+          {%- include nav.html -%}
+        </header>
 
         <main>{{ content }}</main>
 
