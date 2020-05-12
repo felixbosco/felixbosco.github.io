@@ -15,6 +15,7 @@ header {
     background-color: #333;
 }
 
+/* ---------- general design: nav ---------- */
 nav {
     -webkit-flex: 1;
     -ms-flex: 1;
@@ -29,6 +30,16 @@ nav ul {
 }
 nav li {
   float: left;
+}
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 15px;
+  text-decoration: none;
+}
+nav li a:hover {
+  background-color: #111;
 }
 
 /* ---------- general design: main ---------- */
