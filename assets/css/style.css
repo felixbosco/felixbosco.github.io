@@ -52,10 +52,3 @@ main {
 
     color: #333;
 }
-
-/* ---------- responsive design: main ---------- */
-@media (max-width: 1000px) {
-    main {
-        width: 100%;
-    }
-}
