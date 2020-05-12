@@ -42,7 +42,9 @@ nav li a:hover {
   background-color: #111;
 }
 
-.header-nav {}
+.header-title {
+  font-size: 24pt;
+}
 
 /* ---------- general design: main ---------- */
 main {
