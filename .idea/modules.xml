@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/felixbosco.github.io.bak/.idea/felixbosco.github.io.iml" filepath="$USER_HOME$/felixbosco.github.io.bak/.idea/felixbosco.github.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NYRIAstronomy.github.io/.idea/NYRIAstronomy.github.io.iml" filepath="$PROJECT_DIR$/../NYRIAstronomy.github.io/.idea/NYRIAstronomy.github.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../felixbosco.github.io.bak/.idea/felixbosco.github.io.iml" filepath="$PROJECT_DIR$/../felixbosco.github.io.bak/.idea/felixbosco.github.io.iml" />
     </modules>
   </component>
 </project>
