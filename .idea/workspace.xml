@@ -29,6 +29,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -44,6 +45,7 @@
     <servers />
   </component>
   <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.scss" />
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="WindowStateProjectService">
@@ -51,5 +53,9 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="789" y="406" width="332" height="292" key="#Other_File_Types/0.27.1920.1053@0.27.1920.1053" timestamp="1589304437541" />
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1589304926279">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1589304926279" />
   </component>
 </project>
