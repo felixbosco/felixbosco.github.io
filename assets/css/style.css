@@ -53,3 +53,9 @@ main {
     color: #333;
     background-color: red;
 }
+
+@media (max-width: 1000px) {
+  main {
+    width: 100%;
+  }
+}
