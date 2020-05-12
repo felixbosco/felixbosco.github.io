@@ -46,9 +46,13 @@ nav li a:hover {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  
+
   color: white;
   font-size: 24pt;
+}
+.header-title a {
+  text-decoration: none;
+  color: white;
 }
 
 /* ---------- general design: main ---------- */
