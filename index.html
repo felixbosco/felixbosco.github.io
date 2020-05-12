@@ -8,9 +8,10 @@ Hello world!
 <h1>News</h1>
 <ul>
   {% for post in site.posts %}
+    <hr>
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
+      {{ post.content }}
     </li>
   {% endfor %}
 </ul>
