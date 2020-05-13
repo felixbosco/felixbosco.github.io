@@ -7,10 +7,10 @@ html, body {
 header {
     display: -webkit-flex;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 
     width: 100;
-    padding: 0px 10%;
+    padding: 0px 0%;
 
     background-color: #333;
 }
@@ -47,11 +47,17 @@ nav li a:hover {
   -ms-flex: 1;
   flex: 1;
 
+  width: 100%;
+
   color: white;
   font-size: 24pt;
 }
+.header-title img {
+  width: 100%;
+  max-height: 200px;
+}
 .header-title a {
-  padding: 0 15px;
+  padding: 0 10%;
   text-decoration: none;
   color: white;
 }
