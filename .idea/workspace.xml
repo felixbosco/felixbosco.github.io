@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f66a6753-e584-4b1f-86b7-f5af0708f1e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/title.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/title.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +31,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../felixbosco.github.io.bak" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NYRIAstronomy.github.io/_config.yml" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -121,9 +123,9 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="789" y="406" width="332" height="292" key="#Other_File_Types/0.27.1920.1053@0.27.1920.1053" timestamp="1589304437541" />
-    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1589305357045">
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1589362720426">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1589305357045" />
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1589362720426" />
   </component>
 </project>

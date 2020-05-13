@@ -10,3 +10,7 @@ includes_dir        : _includes
 
 include:
   - _pages
+
+collections:
+  posts:
+    output          : true
