@@ -80,7 +80,7 @@ main {
 
 /* ---------- responsive design ---------- */
 @media (max-width: 1200px) {
-  header {
+  .header-title a {
     padding: 0 25px;
   }
 
