@@ -80,6 +80,10 @@ main {
 
 /* ---------- responsive design ---------- */
 @media (max-width: 1200px) {
+  nav {
+    padding: 0 25px;
+  }
+
   .header-title a {
     padding: 0 25px;
   }
