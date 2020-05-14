@@ -63,6 +63,7 @@ nav li a:hover {
   padding: 0 10%;
   position: absolute;
   bottom: 10px;
+  left: 10px;
   text-decoration: none;
   color: white;
 }
