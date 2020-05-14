@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f66a6753-e584-4b1f-86b7-f5af0708f1e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/title.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/title.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589446194323</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adapt padding of nav during response to small screens">
+      <created>1589446297595</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589446297595</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -110,24 +118,25 @@
     <MESSAGE value="Remove deprecated header padding" />
     <MESSAGE value="Add small header padding" />
     <MESSAGE value="Amend that small header padding now applies to the text only" />
-    <option name="LAST_COMMIT_MESSAGE" value="Amend that small header padding now applies to the text only" />
+    <MESSAGE value="Adapt padding of nav during response to small screens" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adapt padding of nav during response to small screens" />
   </component>
   <component name="WindowStateProjectService">
     <state x="789" y="406" width="332" height="292" key="#Other_File_Types" timestamp="1589304437541">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="789" y="406" width="332" height="292" key="#Other_File_Types/0.27.1920.1053@0.27.1920.1053" timestamp="1589304437541" />
-    <state x="857" y="118" width="912" height="907" key="CommitChangelistDialog2" timestamp="1589446194262">
+    <state x="857" y="118" width="912" height="907" key="CommitChangelistDialog2" timestamp="1589446297528">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="857" y="118" width="912" height="907" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1589446194262" />
+    <state x="857" y="118" width="912" height="907" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1589446297528" />
     <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1589362720426">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1589362720426" />
-    <state x="555" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1589446005461">
+    <state x="555" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1589446344632">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="555" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1589446005461" />
+    <state x="555" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1589446344632" />
   </component>
 </project>
