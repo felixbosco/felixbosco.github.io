@@ -50,6 +50,7 @@ nav li a:hover {
   flex: 1;
 
   width: 100%;
+  position: relative;
 
   color: white;
   font-size: 24pt;
@@ -60,9 +61,12 @@ nav li a:hover {
 }
 .header-title a {
   padding: 0 10%;
+  position: absolute;
+  bottom: 10px;
   text-decoration: none;
   color: white;
 }
+
 
 /* ---------- general design: main ---------- */
 main {
