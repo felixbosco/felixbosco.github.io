@@ -79,7 +79,11 @@ main {
 }
 
 /* ---------- responsive design ---------- */
-@media (max-width: 800px) {
+@media (max-width: 1200px) {
+  header {
+    padding: 0 25px;
+  }
+
   main {
     width: 100%;
     margin: 0;
