@@ -94,6 +94,13 @@ main {
 
     color: #333;
 }
+main a {
+  color: #999;
+  text-decoration: none;
+}
+main a:hover {
+  text-decoration: underline;
+}
 
 /* ---------- responsive design ---------- */
 @media (max-width: 1200px) {
