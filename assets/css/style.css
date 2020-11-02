@@ -100,8 +100,9 @@ main {
   }
 
   main {
-    width: 100%;
+    width: 90%;
     margin: 0;
+    padding: 5px;
   }
 }
 
