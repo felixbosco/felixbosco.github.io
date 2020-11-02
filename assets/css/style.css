@@ -45,6 +45,10 @@ nav li a {
   padding: 15px 15px;
   text-decoration: none;
 }
+nav li a:active {
+  color: #777;
+  background-color: #222;
+}
 nav li a:hover {
   color: white;
   background-color: #555;
