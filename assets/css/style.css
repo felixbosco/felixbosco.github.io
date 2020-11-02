@@ -40,13 +40,14 @@ nav li {
 }
 nav li a {
   display: block;
-  color: #555753;
+  color: #555;
   text-align: center;
   padding: 15px 15px;
   text-decoration: none;
 }
 nav li a:hover {
-  background-color: #111;
+  color: white;
+  background-color: #555;
 }
 
 .header-title {
