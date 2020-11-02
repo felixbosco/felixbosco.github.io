@@ -71,6 +71,7 @@ nav li a:hover {
   max-height: 250px;
   opacity: 0.8;
   object-fit: cover;
+  transition: 0.3s;
 }
 .header-title img:hover {
   opacity: 1.0;
