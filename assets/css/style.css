@@ -67,7 +67,7 @@ nav li a:hover {
   opacity: 0.8;
   object-fit: cover;
 }
-.header-title img.hover {
+.header-title img:hover {
   opacity: 1.0;
 }
 .header-title a {
