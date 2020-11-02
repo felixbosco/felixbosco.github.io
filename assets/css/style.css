@@ -64,6 +64,11 @@ nav li a:hover {
 .header-title img {
   width: 100%;
   max-height: 250px;
+  opacity: 0.8;
+  object-fit: cover;
+}
+.header-title img.hover {
+  opacity: 1.0;
 }
 .header-title a {
   padding: 0 10%;
