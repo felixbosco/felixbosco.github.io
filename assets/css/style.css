@@ -121,13 +121,13 @@ main a:hover {
 
 /* ---------- individual design: profile picture ---------- */
 .profile {
-  height: 100px;
+  width: 200px;
   margin: 5px;
   float: left;
 }
 .profile img {
   height: 100%;
-  border-radius: 10px;
+  border-radius: 100px;
    object-fit: cover;
   opacity: 0.8;
 }
