@@ -27,7 +27,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Software/spectroastrometry" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -187,21 +187,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update font-families" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="789" y="406" width="332" height="292" key="#Other_File_Types" timestamp="1589304437541">
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1604480775171">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="789" y="406" width="332" height="292" key="#Other_File_Types/0.27.1920.1053@0.27.1920.1053" timestamp="1589304437541" />
-    <state x="377" y="84" width="912" height="907" key="CommitChangelistDialog2" timestamp="1589450667649">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="377" y="84" width="912" height="907" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1589450667649" />
-    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1589362720426">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1589362720426" />
-    <state x="555" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1589450672910">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="555" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1589450672910" />
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1604480775171" />
   </component>
 </project>
