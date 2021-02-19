@@ -119,6 +119,12 @@ main a:hover {
   }
 }
 
+/* ---------- individual design: profile picture ---------- */
+.profile {
+  width: 200px;
+  margin: 5px;
+}
+
 /* ---------- individual design: table ---------- */
 .table {
   width: 100%;
