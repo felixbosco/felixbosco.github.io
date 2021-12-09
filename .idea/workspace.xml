@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f66a6753-e584-4b1f-86b7-f5af0708f1e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outreach.html" beforeDir="false" afterPath="$PROJECT_DIR$/outreach.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research.html" beforeDir="false" afterPath="$PROJECT_DIR$/research.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636563687174</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Add workshop descriptions and the new outreach article on spectroastrometry to the list of publications">
+      <created>1639055047016</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1639055047016</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -261,12 +268,13 @@
     <MESSAGE value="Update CV" />
     <MESSAGE value="Update outreach activities" />
     <MESSAGE value="Copy about text into index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Copy about text into index" />
+    <MESSAGE value="Add workshop descriptions and the new outreach article on spectroastrometry to the list of publications" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add workshop descriptions and the new outreach article on spectroastrometry to the list of publications" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="90" y="151" width="1266" height="809" key="CommitChangelistDialog2" timestamp="1636563687071">
+    <state x="90" y="151" width="1266" height="809" key="CommitChangelistDialog2" timestamp="1639055046769">
       <screen x="0" y="32" width="1920" height="1047" />
     </state>
-    <state x="90" y="151" width="1266" height="809" key="CommitChangelistDialog2/0.32.1920.1047@0.32.1920.1047" timestamp="1636563687071" />
+    <state x="90" y="151" width="1266" height="809" key="CommitChangelistDialog2/0.32.1920.1047@0.32.1920.1047" timestamp="1639055046769" />
   </component>
 </project>
