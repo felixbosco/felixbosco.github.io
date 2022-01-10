@@ -69,12 +69,12 @@ nav li a:hover {
 .header-title img {
   width: 100%;
   max-height: 250px;
-  opacity: 0.8;
+  opacity: 1.0;
   object-fit: cover;
   transition: 0.3s;
 }
 .header-title img:hover {
-  opacity: 1.0;
+  opacity: 0.9;
 }
 .header-title a {
   margin-left: 10%;
