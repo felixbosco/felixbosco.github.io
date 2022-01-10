@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f66a6753-e584-4b1f-86b7-f5af0708f1e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/research.html" beforeDir="false" afterPath="$PROJECT_DIR$/research.html" afterDir="false" />
+>>>>>>> 0fe82d0a69002ce1c6bf74402f0e1cc4a9d268de
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +43,19 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -170,7 +186,56 @@
       <option name="project" value="LOCAL" />
       <updated>1589450667726</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Update research and publications sections">
+      <created>1636562364651</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1636562364651</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Update outreach activities">
+      <created>1636563155782</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1636563155782</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Update CV">
+      <created>1636563370412</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1636563370412</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Update outreach activities">
+      <created>1636563467734</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1636563467734</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Update outreach activities">
+      <created>1636563574926</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1636563574926</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Copy about text into index">
+      <created>1636563687174</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1636563687174</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Add workshop descriptions and the new outreach article on spectroastrometry to the list of publications">
+      <created>1639055047016</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1639055047016</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -182,7 +247,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -201,12 +268,17 @@
     <MESSAGE value="Change header image references" />
     <MESSAGE value="Update max-height of .header-title img to 250px" />
     <MESSAGE value="Update font-families" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update font-families" />
+    <MESSAGE value="Update research and publications sections" />
+    <MESSAGE value="Update CV" />
+    <MESSAGE value="Update outreach activities" />
+    <MESSAGE value="Copy about text into index" />
+    <MESSAGE value="Add workshop descriptions and the new outreach article on spectroastrometry to the list of publications" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add workshop descriptions and the new outreach article on spectroastrometry to the list of publications" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1604480775171">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="90" y="151" width="1266" height="809" key="CommitChangelistDialog2" timestamp="1639055351569">
+      <screen x="0" y="32" width="1920" height="1047" />
     </state>
-    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1604480775171" />
+    <state x="90" y="151" width="1266" height="809" key="CommitChangelistDialog2/0.32.1920.1047@0.32.1920.1047" timestamp="1639055351569" />
   </component>
 </project>
