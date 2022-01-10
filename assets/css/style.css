@@ -79,10 +79,10 @@ nav li a:hover {
 .header-title a {
   margin-left: 10%;
   margin-bottom: 20px;
-  /*padding: 0 10%;*/
+  padding: 20px;
   position: absolute;
-  bottom: 10px;
-  left: 10px;
+  /*bottom: 10px;
+  left: 10px;*/
   text-decoration: none;
   color: white;
   background-color: rgba(255, 255, 255, 0.3)
