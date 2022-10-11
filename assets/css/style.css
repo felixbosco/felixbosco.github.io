@@ -1,5 +1,5 @@
 /* ---------- general design: body ---------- */
-html, body, header-title {
+html, body, header-banner {
   margin: 0;
   font-family: Cambria, Calibri, Arial, sans-serif;
   color: #555753;
@@ -26,7 +26,7 @@ nav {
     flex: 1;
 
     padding: 0 10%;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 nav ul {
     float: right;
