@@ -1,5 +1,5 @@
 /* ---------- general design: body ---------- */
-html, body {
+html, body, header-title {
   margin: 0;
   font-family: Cambria, Calibri, Arial, sans-serif;
   color: #555753;
