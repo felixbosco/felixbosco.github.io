@@ -1,5 +1,5 @@
 /* ---------- general design: body ---------- */
-html, body, header-banner {
+html, body {
   margin: 0;
   font-family: Cambria, Calibri, Arial, sans-serif;
   color: #555753;
@@ -76,7 +76,7 @@ nav li a:hover {
 .header-banner img:hover {
   opacity: 0.9;
 }
-.header-title {
+.header-title-field {
   margin-left: 10%;
   margin-bottom: 20px;
   padding: 20px;
@@ -86,6 +86,17 @@ nav li a:hover {
   text-decoration: none;
   color: white;
   background-color: rgba(255, 255, 255, 0.5)
+}
+.header-title {
+  color: #222;
+  font-family: Cambria, Calibri, Arial, sans-serif;
+  font-size: 32pt;
+  font-weight: bold;
+}
+.header-subtitle {
+  font-family: Cambria, Calibri, Arial, sans-serif;
+  color:#444;
+  font-size:18pt;
 }
 
 
