@@ -81,6 +81,7 @@ nav li a:hover {
   margin-bottom: 20px;
   padding: 20px;
   position: absolute;
+  border-radius: 10px;
   bottom: 10px;
   left: 10px;
   text-decoration: none;
@@ -147,7 +148,7 @@ main h2 {
 }
 .profile img {
   width: 100%;
-  border-radius: 20px;
+  border-radius: 10px;
   object-fit: cover;
   opacity: 1.0;
 }
